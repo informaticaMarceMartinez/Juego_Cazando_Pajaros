@@ -29,5 +29,5 @@ El juego cuenta con un sistema de niveles que aumenta la dificultad, y los jugad
 
 1. Clona este repositorio:
    ```bash
-   git clone git clone https://github.com/informaticaMarceMartinez/Juego_Cazando_Pajaros.git
+   git clone https://github.com/tu_usuario/juego-de-caza-de-pajaros.git
 

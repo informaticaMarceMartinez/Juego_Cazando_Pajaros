@@ -30,4 +30,20 @@ El juego cuenta con un sistema de niveles que aumenta la dificultad, y los jugad
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu_usuario/juego-de-caza-de-pajaros.git
+------------------------------------------------------------------------------
 
+## Proyectos Relacionados
+- Estoy trabajando en varios proyectos interesantes. No dude en contactarme para obtener más información sobre estas iniciativas.
+
+## Nota para Potenciales Empleadores
+- Soy un desarrollador comprometido con la creación de soluciones eficientes y fáciles de usar. Mi enfoque se centra en la simplicidad y la funcionalidad. Para más información sobre mi experiencia y habilidades, por favor visite mi perfil profesional:
+
+Descargar CV en PDF
+
+Estoy abierto a nuevas oportunidades y colaboraciones. No dude en contactarme para discutir posibles proyectos o posiciones.
+Licencia
+Este proyecto está licenciado bajo la GNU General Public License v3.0 (GPL-3.0).
+
+Esto significa que puedes usar, modificar y distribuir este software libremente, siempre y cuando cualquier trabajo derivado se distribuya bajo los mismos términos de licencia y preserve mi información de autoría.
+
+Para más detalles, consulta el archivo LICENSE en este repositorio o visita https://www.gnu.org/licenses/gpl-3.0.html.
